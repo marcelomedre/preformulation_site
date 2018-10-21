@@ -1,0 +1,9 @@
+name: "preformulation website"
+output_dir: "."
+navbar:
+  title: "Pré-formulação"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
