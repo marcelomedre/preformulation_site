@@ -1,7 +1,7 @@
 name: "preformulation website"
 output_dir: "."
 navbar:
-  title: "Pré-formulação"
+  title: "Preformulation"
   left:
     - text: "Home"
       href: index.html
